@@ -25,12 +25,15 @@ STEP 3 : save all your tables and data in local file so that when you re-run you
 STEP 4 : after doing this, open react project using VsCode, VsCode is best IDE for react based app, but you can open this project using any other IDE as well such as 
          intellij/eclipse etc.
          After opening the project, run following command
+         
          npm install
+         
          npm start
          
          above command will start server on port number 3000
 
 STEP 5 : now open http://localhost:3000
+
          this will open first page of Employee Resignation Portal.
          
 Since both server are running, frontend and backend will be in sync and whichever operation you perform on UI, will connect with backend code, to verify if data is updating 
