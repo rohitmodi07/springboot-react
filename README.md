@@ -37,6 +37,3 @@ Since both server are running, frontend and backend will be in sync and whicheve
 properly , you can check in h2 database.
 
 
-Thats All folks, let me know if anyone face any issue
-
-
