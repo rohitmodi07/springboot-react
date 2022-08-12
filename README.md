@@ -1,4 +1,7 @@
-Employee Resignation Portal :--- added swagger as well for easy access and testing
+
+Project Name  :---- Employee Resignation Portal
+
+About Project :----
 
 Employee Resignation project is based on React js and springboot, this project can be used by anyone who wants to develop a resignation application for learning purpose 
 or for their organization, this project can provide a proper start and based on the requirement can be enhanced easily, it also has email functionality.
@@ -39,4 +42,4 @@ STEP 5 : now open http://localhost:3000
 Since both server are running, frontend and backend will be in sync and whichever operation you perform on UI, will connect with backend code, to verify if data is updating 
 properly , you can check in h2 database.
 
-
+Note : Swagger has implemented for easy access to end points, to open Swagger UI, use this url 'http://localhost:8080/swagger-ui.html'
